@@ -2,6 +2,8 @@
 🧩 I’m currently learning Python :snake:
 
  ![python logo](https://www.python.org/static/img/python-logo.png)
+ 
+ and the features of Git and GitHub 
 
 
 <!--
