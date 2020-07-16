@@ -1,9 +1,9 @@
 ### Hi there 👋
 🧩 I’m currently learning Python :snake:
 
- ![python logo](https://www.python.org/static/img/python-logo.png)
+[![python logo](https://www.python.org/static/img/python-logo.png "python logo")](# "python logo")
  
- and the features of Git and GitHub 
+ and the features of **Git** and **GitHub** 
 
 
 <!--
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+pandao.github.io/editor.md/en.html
 -->
