@@ -1,5 +1,8 @@
 ### Hi there 👋
-🧩 I’m currently learning Python
+🧩 I’m currently learning Python :snake:
+
+ ![python logo](https://www.python.org/static/img/python-logo.png)
+
 
 <!--
 **dam450/dam450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
