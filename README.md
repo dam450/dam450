@@ -1,7 +1,7 @@
 ### Hi there 👋
 🧩 I’m currently learning Python :snake:
 
-[![python logo](https://www.python.org/static/img/python-logo.png "python logo")](# "python logo")
+[![python logo](https://www.python.org/static/img/python-logo.png "python logo")](https://www.python.org/ "python logo")
  
  and the features of **Git** and **GitHub** 
 
