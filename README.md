@@ -1,9 +1,20 @@
 ### Hi there 👋
-🧩 I’m currently learning Python :snake:
+🧩 I’m currently learning: 
+
+- Python :snake:
+
+- HTML
+
+- CSS
+
+- JavaScript
+
 
 [![python logo](https://www.python.org/static/img/python-logo.png "python logo")](https://www.python.org/ "python logo")
  
- and the features of **Git** and **GitHub** 
+the features of **Git** and **GitHub** 
+ 
+and little  Frontend too
 
 
 <!--
