@@ -1,5 +1,5 @@
 ### Hi there 👋
-🧩 I’m currently learning: 
+🧩 I’m currently studing: 
 
 - Python :snake:
 
@@ -14,7 +14,7 @@
  
 the features of **Git** and **GitHub** 
  
-and little  Frontend too
+and Frontend too
 
 
 <!--
