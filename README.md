@@ -1,6 +1,8 @@
 ### Hi there 👋
-🧩 I’m currently studing: 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Kotlin
 
+
+<!--
 - Python :snake:
 
 - HTML
@@ -17,7 +19,7 @@ the features of **Git** and **GitHub**
 and Frontend too
 
 
-<!--
+
 **dam450/dam450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
