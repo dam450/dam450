@@ -2,6 +2,9 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Kotlin
 
 
+![Snake animation](https://github.com/dam450/dam450/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 - Python :snake:
 
