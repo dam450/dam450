@@ -1,6 +1,19 @@
-### Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Kotlin
+### Hello World 👋
+I'm Evandro Damaso
 
+- Bacharel em Ciências da Computação 
+
+#### Skills:
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=32px alt="HTML5" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=32px  alt="CSS3" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=32px alt="JavaScript" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=32px alt="Git" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height=32px alt="Github" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" height=32px alt="Gimp" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height=32px alt="Python" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height=32px alt="VSCode" />
+</div>
 
 ![Snake animation](https://github.com/dam450/dam450/blob/output/github-contribution-grid-snake.svg)
 
@@ -38,3 +51,9 @@ Here are some ideas to get you started:
 
 pandao.github.io/editor.md/en.html
 -->
+
+
+ <!-- Contador de visitas -->
+  <div background-color=blue>
+    <img align="left" src="https://komarev.com/ghpvc/?username=dam450&color=green" alt="dam450" width="79"  height="16" /> <br>
+  </div>  
