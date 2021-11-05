@@ -1,10 +1,10 @@
-### Hello World 👋
-I'm Evandro Damaso
+### Hello World! 👋👏😎
+I'm Evandro Damaso.
 
 - Bacharel em Ciências da Computação 
 
 #### Skills:
-<div>
+<div >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=32px alt="HTML5" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=32px  alt="CSS3" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=32px alt="JavaScript" />
