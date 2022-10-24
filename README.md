@@ -24,9 +24,9 @@ I'm Evandro Damaso.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="48px" alt="Python" />&nbsp;
 </div>
 
+<br/><br/><br/>
 
-
-
+[![@dam450's Holopin board](https://holopin.me/dam450)](https://holopin.io/@dam450)
 
 <!--
 - Bachelor of Computer Science
