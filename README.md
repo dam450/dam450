@@ -1,10 +1,5 @@
 
-<p align="center">
-  <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=dam450&color=green" alt="Dam450" width="72"  height="14" />
-</p>
-
-### Hello World! 👋
+# Hello World! 👋
 
 I'm Evandro Damaso.
 
@@ -90,3 +85,7 @@ pandao.github.io/editor.md/en.html
 -->
 
 
+<p align="center">
+  <!-- Contador de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=dam450&color=green" alt="Dam450" width="72"  height="14" />
+</p>
