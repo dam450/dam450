@@ -9,7 +9,7 @@ I'm Evandro Damaso.
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode&theme=dark" />
   </a>
 </p>
 
