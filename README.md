@@ -14,10 +14,10 @@ I'm Evandro Damaso.
 </p>
 
 <!-- div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48px" alt="typescript" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="48px" alt="HTML5" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="48px"  alt="CSS3" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="48px" alt="JavaScript" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="48px" alt="typescript" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48px" alt="ReactJs" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="48px" alt="Git" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="48px" alt="Github" />&nbsp;
