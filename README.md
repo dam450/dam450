@@ -53,6 +53,8 @@ I'm Evandro Damaso.
     My custom 
     <a href="https://gist.github.com/dam450/460bed707799527cda65f6d151852ce0">Oh My Posh theme</a> 
     (needs a nerd font to fully work)
+    <br />
+    <a href="https://gist.github.com/dam450/460bed707799527cda65f6d151852ce0"><img src="./.github/img/posh_theme.png" alt="Oh My Posh theme"   height="80"/></a>
   </p>
 </details>
 
