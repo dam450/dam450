@@ -47,7 +47,14 @@ I'm Evandro Damaso.
 </p>
 </details>
 
-
+<details>
+  <summary>💻 Oh My Posh theme</summary>
+  <p>
+    My custom 
+    <a href="https://gist.github.com/dam450/460bed707799527cda65f6d151852ce0">Oh My Posh theme</a> 
+    (needs a nerd font to fully work)
+  </p>
+</details>
 
 <!--
 
