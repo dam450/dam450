@@ -3,7 +3,7 @@
 
 I'm Evandro Damaso.
 
-[@Rocketseat](https://www.rocketseat.com.br/) Explorer T3
+<!-- [@Rocketseat](https://www.rocketseat.com.br/) Explorer T3 -->
 
 #### Skills:
 
