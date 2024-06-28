@@ -1,15 +1,15 @@
 
 # Hello World! 👋
 
-I'm Evandro Damaso.
+I'm Evandro Damaso - full stack developer.
 
 <!-- [@Rocketseat](https://www.rocketseat.com.br/) Explorer T3 -->
 
 #### Skills:
 
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode&theme=dark" />
+  <a href="#my-stack">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents,sass,vscode,figma,git,github,nodejs,pnpm,docker&theme=dark&perline=5" />
   </a>
 </p>
 
@@ -28,15 +28,6 @@ I'm Evandro Damaso.
 <br/>
 
 <details>
-  <summary>🏷️Holopins</summary>
-  
-  <a href="https://holopin.io/@dam450">
-    <img src="https://holopin.me/dam450" alt="@dam450's Holopin board" />
-  </a>
-</details>
-
-
-<details>
   <summary>⚡Github Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dam450&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
@@ -45,6 +36,19 @@ I'm Evandro Damaso.
   <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=dam450&color=green" alt="Dam450"  height="16" />
 </p>
+</details>
+
+<!-- details>
+  <summary>🪛 Stack</summary>
+  <h3>My stack</h3>
+</details -->
+
+<details>
+  <summary>🏷️Holopins</summary>
+  
+  <a href="https://holopin.io/@dam450">
+    <img src="https://holopin.me/dam450" alt="@dam450's Holopin board" />
+  </a>
 </details>
 
 <details>
