@@ -9,7 +9,7 @@ I'm Evandro Damaso - full stack developer.
 
 <p align="left">
   <a href="#my-stack">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents,sass,vscode,figma,git,github,nodejs,pnpm,docker&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,next,tailwind,styledcomponents,sass,vscode,figma,git,github,nodejs,pnpm,docker&theme=dark&perline=6" />
   </a>
 </p>
 
