@@ -5,6 +5,12 @@ I'm Evandro Damaso - full stack developer.
 
 <!-- [@Rocketseat](https://www.rocketseat.com.br/) Explorer T3 -->
 
+<div>
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=evandro-damaso" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="32px" alt="linkedin" />
+  </a>
+</div>
+
 #### Skills:
 
 <p align="left">
@@ -51,6 +57,9 @@ I'm Evandro Damaso - full stack developer.
   </a>
 </details>
 
+
+
+<!--
 <details>
   <summary>💻 Oh My Posh theme</summary>
   <p>
@@ -62,7 +71,6 @@ I'm Evandro Damaso - full stack developer.
   </p>
 </details>
 
-<!--
 
 [![@dam450's Holopin board](https://holopin.me/dam450)](https://holopin.io/@dam450)
 
@@ -101,6 +109,4 @@ Here are some ideas to get you started:
 
 pandao.github.io/editor.md/en.html
 -->
-
-
 
