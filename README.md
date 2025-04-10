@@ -7,7 +7,7 @@ I'm Evandro Damaso - full stack developer.
 
 <div>
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=evandro-damaso" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="32px" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32px" alt="linkedin" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@ I'm Evandro Damaso - full stack developer.
 
 <p align="left">
   <a href="#my-stack">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,next,tailwind,styledcomponents,sass,vscode,figma,git,github,nodejs,pnpm,docker&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,next,tailwind,styledcomponents,sass,vscode,figma,git,github,nodejs,pnpm,docker&theme=dark&perline=6" height="120px" />
   </a>
 </p>
 
