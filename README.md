@@ -33,16 +33,18 @@ I'm Evandro Damaso - full stack developer.
 
 <br/>
 
-<details>
+
+<!-- details>
   <summary>⚡Github Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dam450&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dam450&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <p align="right">
-  <!-- Contador de visitas -->
+  <!-- Contador de visitas -- >
   <img src="https://komarev.com/ghpvc/?username=dam450&color=green" alt="Dam450"  height="16" />
 </p>
-</details>
+</details --> 
+
 
 <!-- details>
   <summary>🪛 Stack</summary>
